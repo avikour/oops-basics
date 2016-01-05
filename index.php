@@ -29,9 +29,9 @@ class Php_Users extends Users {
     }
 }
 
-$prince = new Php_Users('prince');
+$avneet = new Php_Users('avneet');
 //var_dump($prince); die;
-$prince->child_insert();
+$avneet->child_insert();
 
 
 
